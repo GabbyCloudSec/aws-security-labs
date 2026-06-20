@@ -1,49 +1,33 @@
 # AWS Security Labs
 
-## Overview
+Hands-on AWS security labs focused on identity, logging, monitoring, storage security, network security, and cloud security best practices.
 
-This repository contains hands-on AWS security labs and projects focused on building practical cloud security skills. The labs cover core AWS services, identity and access management, monitoring, logging, and security best practices.
+## What This Covers
 
-## Technologies Used
+- IAM users, groups, roles, and policies
+- Least privilege access
+- EC2 security concepts
+- S3 bucket security
+- VPC networking fundamentals
+- CloudTrail logging and monitoring
+- AWS security best practices
 
-* Amazon Web Services (AWS)
-* IAM
-* EC2
-* S3
-* CloudTrail
-* VPC
-* Git
+## Skills Practiced
 
-## Topics Covered
-
-* Identity and Access Management (IAM)
-* Least Privilege Principles
-* S3 Security
-* EC2 Security Concepts
-* CloudTrail Logging
-* VPC Networking Fundamentals
-* AWS Security Best Practices
-
-## Skills Demonstrated
-
-* Cloud Security Fundamentals
-* Access Control
-* Monitoring and Logging
-* Security Configuration
-* Documentation
-* Problem Solving
-
-## What I Learned
-
-Through these labs, I gained hands-on experience working with AWS services while developing a stronger understanding of cloud security concepts, identity management, and secure infrastructure practices.
+- AWS security fundamentals
+- Identity and access management
+- Secure cloud configuration
+- Cloud logging and monitoring
+- Security documentation
+- Problem solving
 
 ## Future Improvements
 
-* Implement additional IAM scenarios
-* Expand CloudTrail monitoring exercises
-* Explore GuardDuty and Security Hub
-* Build secure multi-tier architectures
-* Add architecture diagrams
+- Add more IAM scenarios
+- Expand CloudTrail monitoring exercises
+- Explore GuardDuty and Security Hub
+- Build secure multi-tier architecture labs
+- Add architecture diagrams
 
 ## Author
 
