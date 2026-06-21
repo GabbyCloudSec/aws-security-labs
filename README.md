@@ -1,5 +1,7 @@
 # AWS Security Labs
 
+🔗 Part of my [Cloud Security Portfolio](https://gabbycloudsec.github.io)
+
 Hands-on AWS security labs focused on identity, logging, monitoring, storage security, network security, and cloud security best practices.
 
 ## What This Covers
@@ -9,6 +11,7 @@ Hands-on AWS security labs focused on identity, logging, monitoring, storage sec
 - EC2 security concepts
 - S3 bucket security
 - VPC networking fundamentals
+- Security group configuration
 - CloudTrail logging and monitoring
 - AWS security best practices
 
