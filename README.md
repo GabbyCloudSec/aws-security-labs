@@ -1,40 +1,70 @@
-# AWS Security Labs
+# ☁️ AWS Security Labs
 
 🔗 Part of my [Cloud Security Portfolio](https://gabbycloudsec.github.io)
 
-Hands-on AWS security labs focused on identity, logging, monitoring, storage security, network security, and cloud security best practices.
+Hands-on AWS security labs focused on **identity security, cloud monitoring, misconfiguration analysis, and security best practices**.
 
-## What This Covers
+This repository simulates real-world cloud security scenarios where I analyze configurations, identify security risks, and document remediation steps using AWS services.
 
-- IAM users, groups, roles, and policies
-- Least privilege access
-- EC2 security concepts
-- S3 bucket security
-- VPC networking fundamentals
-- Security group configuration
-- CloudTrail logging and monitoring
-- AWS security best practices
+---
 
-## Skills Practiced
+## 🎯 Lab Focus Areas
 
-- AWS security fundamentals
-- Identity and access management
-- Secure cloud configuration
-- Cloud logging and monitoring
-- Security documentation
-- Problem solving
+- 🔐 IAM security (users, roles, policies, least privilege design)
+- 📊 CloudTrail logging and activity monitoring
+- 🚨 Security analysis of misconfigurations and risk exposure
+- ☁️ S3 bucket security and access control
+- 🧱 EC2 security configuration review
+- 🌐 VPC and security group fundamentals
 
-## Future Improvements
+---
 
-- Add more IAM scenarios
-- Expand CloudTrail monitoring exercises
-- Explore GuardDuty and Security Hub
-- Build secure multi-tier architecture labs
-- Add architecture diagrams
+## 🧪 What I Practice in These Labs
 
-## Author
+Each lab focuses on a real security thinking process:
 
-Gabriell Bedoy
+- Identify misconfigurations or risky access patterns
+- Analyze potential attack paths or exposure risks
+- Document findings in a structured security report
+- Propose remediation using AWS best practices
 
-GitHub: https://github.com/GabbyCloudSec
+---
+
+## 🛠️ Skills Developed
+
+- AWS IAM (identity and access control design)
+- Cloud security analysis and risk identification
+- CloudTrail log interpretation and monitoring
+- Secure configuration of AWS services
+- Security documentation and reporting
+- Junior SOC-style investigative thinking
+
+---
+
+## 📈 Progression Goals
+
+- Build advanced IAM policy scenarios (role chaining, cross-account access)
+- Expand CloudTrail investigations into real incident-style case studies
+- Add GuardDuty and Security Hub monitoring scenarios
+- Design a secure multi-tier cloud architecture lab
+- Include architecture diagrams and threat models
+
+---
+
+## 🛡️ Career Alignment
+
+This project supports entry-level roles such as:
+
+- SOC Analyst (Tier 1)
+- Cloud Security Analyst
+- Junior Cloud Security Engineer
+- IT Security Operations Analyst
+
+---
+
+## 👤 Author
+
+Gabriell Bedoy  
+🔗 GitHub: https://github.com/GabbyCloudSec  
+💼 Portfolio: https://gabbycloudsec.github.io
 
