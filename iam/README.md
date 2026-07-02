@@ -1,20 +1,20 @@
+## IAM Lab
 
-# IAM Lab
+### Objectives
 
-## Objectives
+- Create users and groups
+- Configure permissions
+- Understand policies and roles
+- Apply least privilege
 
-- Create users and groups.
-- Configure permissions.
-- Understand policies and roles.
-- Apply least privilege.
+### Services Used
 
-## Services
+`IAM Users` `IAM Groups` `IAM Roles` `IAM Policies`
 
-- IAM Users
-- IAM Groups
-- IAM Roles
-- IAM Policies
+### Notes
 
-## Notes
+IAM provides authentication and authorization for AWS resources — least privilege is the core principle applied throughout, ensuring users and roles only have the access they actually need. This lab connects directly to the deeper investigation in [aws-iam-investigation](https://github.com/GabbyCloudSec/aws-iam-investigation).
 
-IAM provides authentication and authorization for AWS resources.
+---
+
+Part of [aws-security-labs](../)
