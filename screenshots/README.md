@@ -1,14 +1,17 @@
+## Screenshots
 
-# Screenshots
+This directory contains screenshots and supporting images for the AWS security labs in this repository.
 
-This directory contains screenshots and supporting images for AWS labs and projects.
+### Purpose
 
-## Purpose
+- Document configurations
+- Capture successful deployments
+- Provide visual references
 
-- Document configurations.
-- Capture successful deployments.
-- Provide visual references.
+### Status
 
-## Status
+Active — updated as labs progress.
 
-Active
+---
+
+Part of [aws-security-labs](../)
