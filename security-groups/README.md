@@ -1,22 +1,25 @@
+## Security Groups Lab
 
-# Security Groups Lab
+### Objectives
 
-## Objectives
+- Create inbound rules
+- Create outbound rules
+- Restrict traffic
+- Understand common ports
 
-- Create inbound rules.
-- Create outbound rules.
-- Restrict traffic.
-- Understand common ports.
-
-## Common Ports
+### Common Ports
 
 | Port | Service |
-|--------|---------|
-| 22 | SSH |
-| 80 | HTTP |
-| 443 | HTTPS |
-| 3389 | RDP |
+|------|---------|
+| 22   | SSH     |
+| 80   | HTTP    |
+| 443  | HTTPS   |
+| 3389 | RDP     |
 
-## Notes
+### Notes
 
-Security groups act as stateful virtual firewalls that control traffic to AWS resources.
+Security groups act as stateful virtual firewalls that control traffic to AWS resources — a core building block for restricting access at the network level.
+
+---
+
+Part of [aws-security-labs](../)
