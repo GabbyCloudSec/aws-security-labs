@@ -1,19 +1,20 @@
+## S3 Lab
 
-# S3 Lab
+### Objectives
 
-## Objectives
+- Create buckets
+- Upload objects
+- Configure permissions
+- Understand encryption options
 
-- Create buckets.
-- Upload objects.
-- Configure permissions.
-- Understand encryption options.
+### Services Used
 
-## Services
+`S3 Buckets` `Bucket Policies` `Encryption`
 
-- S3 Buckets
-- Bucket Policies
-- Encryption
+### Notes
 
-## Notes
+Amazon S3 provides object storage with scalability and durability — proper bucket policies and encryption are critical here, since misconfigured S3 access is one of the most common sources of real-world cloud data exposure.
 
-Amazon S3 provides object storage with scalability and durability.
+---
+
+Part of [aws-security-labs](../)
