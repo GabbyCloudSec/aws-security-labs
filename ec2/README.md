@@ -1,19 +1,20 @@
+## EC2 Lab
 
-# EC2 Lab
+### Objectives
 
-## Objectives
+- Launch EC2 instances
+- Connect using SSH
+- Configure security groups
+- Practice Linux administration
 
-- Launch EC2 instances.
-- Connect using SSH.
-- Configure security groups.
-- Practice Linux administration.
+### Services Used
 
-## Services
+`EC2` `Security Groups` `Key Pairs`
 
-- EC2
-- Security Groups
-- Key Pairs
+### Notes
 
-## Notes
+Amazon EC2 provides scalable compute resources in the cloud. This lab pairs directly with [security-groups](../security-groups) for access control and connects hands-on Linux administration practice to cloud infrastructure management.
 
-Amazon EC2 provides scalable compute resources in the cloud.
+---
+
+Part of [aws-security-labs](../)
