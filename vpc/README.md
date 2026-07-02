@@ -1,20 +1,21 @@
 
-# VPC Lab
+## VPC Lab
 
-## Objectives
+### Objectives
 
-- Create a Virtual Private Cloud (VPC).
-- Configure subnets.
-- Understand route tables.
-- Explore internet gateways.
+- Create a Virtual Private Cloud (VPC)
+- Configure subnets
+- Understand route tables
+- Explore internet gateways
 
-## Services
+### Services Used
 
-- VPC
-- Subnets
-- Route Tables
-- Internet Gateway
+`VPC` `Subnets` `Route Tables` `Internet Gateway`
 
-## Notes
+### Notes
 
-Amazon VPC enables network isolation and provides control over IP addressing, routing, and connectivity.
+Amazon VPC enables network isolation and provides control over IP addressing, routing, and connectivity — the foundation for securing everything else deployed inside AWS.
+
+---
+
+Part of [aws-security-labs](../)
